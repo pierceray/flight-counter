@@ -20,6 +20,10 @@ define(function (require) {
     this.after('initialize', function () {
 
     });
+
+    this.getNumberValue = function(selector){
+      return this.select(selector).text() - 0;
+    }
   }
 
 });

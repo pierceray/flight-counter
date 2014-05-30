@@ -56,6 +56,7 @@ define(function (require) {
         value: currentValue - 1
       });
     };
+
     this.change = function(event, data){
       this.select('counterDisplay').text(data.value);
     };

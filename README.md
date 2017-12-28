@@ -1,5 +1,7 @@
 # flight-flight-counter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pierceray/flight-counter.svg)](https://greenkeeper.io/)
+
 ## Installation
 
 ```
